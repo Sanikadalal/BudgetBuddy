@@ -7,7 +7,7 @@
   
   
 
-<h3  align="center">Budget Tracker</h3>
+<h3  align="center">BudgetBuddy</h3>
 
   
 
@@ -25,7 +25,7 @@ A simple JavaScript program to keep a track of savings and expenses.
 
 <details>
 
-<summary><b>Table of Contents</summary>
+
 
 <ol>
 
@@ -33,7 +33,7 @@ A simple JavaScript program to keep a track of savings and expenses.
 
 <ul>
 
-<li><a  href="#built-with">Built With</a></li>
+
 
 </ul>
 
@@ -64,16 +64,9 @@ A simple JavaScript program to keep a track of savings and expenses.
   
 
 ## About The Project
+
+
 A simple JavaScript program to keep a track of savings and expenses.
-
-  
-
-<p  align="right">(<a  href="#top">back to top</a>)</p>
-
-  
-  
-
-<hr>
 
   
 
@@ -87,78 +80,7 @@ A simple JavaScript program to keep a track of savings and expenses.
 
 * [JavaScript](https://www.javascript.com/)
 
-  
-  
 
-<p  align="right">(<a  href="#top">back to top</a>)</p>
-
-  
-  
-  
-  
-
-## Getting Started
-
-  
-  
-  
-
-### Prerequisites
-
-  
-
-There are no prerequisites for running this program.
-  
-
-### Prerequisites
-
-  
-
-  
-
-There are no prerequisites for running this program.
-
-  
-
-  
-
-### Running the Program:
-
-  
-
-  
-
-1. Start by cloning the repository.
-
-  
-
-```
-
-git clone https://github.com/surajm-333/Ace-The-FrontEnd.git
-```
-
-  
-  
-
-2. Navigate to `Budget Tracker` Project.
-
-  
-
-3. Open the `index.html` HTML file with live server.
-  
-  
-  
-  
-  
-
-<p  align="right">(<a  href="#top">back to top</a>)</p>
-
-  
-  
-  
-  
-
-## Features
 
 <div  align="center">
 
@@ -166,7 +88,7 @@ git clone https://github.com/surajm-333/Ace-The-FrontEnd.git
 
 </div>
 
-  Check out this Demo Video:
+  Check out :
   
 
 
@@ -175,7 +97,6 @@ git clone https://github.com/surajm-333/Ace-The-FrontEnd.git
   
 
 
-https://user-images.githubusercontent.com/94376674/169950463-7b818c47-f1c7-4e30-b251-59ac542461f5.mp4
 
 
   
