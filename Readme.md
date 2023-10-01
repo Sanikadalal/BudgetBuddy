@@ -90,7 +90,7 @@ A simple JavaScript program to keep a track of savings and expenses.
 
   Check out :
 
-  <img src="D:\BudgetBuddy\snips/snip1.png" alt="snip" >
+  <img src="D:\BudgetBuddy\snips\snip1.png" alt="snip" >
   
 
 
