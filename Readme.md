@@ -12,7 +12,7 @@
   
 
 <p  align="center">
-A simple JavaScript program to keep a track of savings and expenses.
+A simple JavaScript program to keep a track of savings and expenses of daily life .
 </p>
 
 <br>
@@ -29,7 +29,7 @@ A simple JavaScript program to keep a track of savings and expenses.
 
 <ol>
 
-<a  href="#about-the-project">About The Project</a>
+<a  href="#about-the-project">About </a>
 
 <ul>
 
@@ -82,17 +82,17 @@ A simple JavaScript program to keep a track of savings and expenses.
 
 
 
-<div  align="center">
 
- <img src="https://github.com/Sanikadalal/BudgetBuddy/blob/main/snips/snip1.png" alt="snip" >
-
-</div>
 
   Check out :
-
-  <img src="D:\BudgetBuddy\snips\snip1.png" alt="snip" >
   
+<div  align="center">
 
+
+  <img src="https://github.com/Sanikadalal/BudgetBuddy/blob/main/snips/snip1.png" alt="snip" >
+
+
+</div>
 
   
   
