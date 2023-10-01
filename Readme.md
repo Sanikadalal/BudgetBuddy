@@ -84,11 +84,13 @@ A simple JavaScript program to keep a track of savings and expenses.
 
 <div  align="center">
 
-<img  src="https://raw.githubusercontent.com/LiQuiD-404/Ace-The-FrontEnd/secondary/Budget%20Tracker/snips/snip1.png"  alt="snip"/>
+ <img src="D:\BudgetBuddy\snips/snip1.png" alt="snip" >
 
 </div>
 
   Check out :
+
+  <img src="D:\BudgetBuddy\snips/snip1.png" alt="snip" >
   
 
 
